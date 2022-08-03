@@ -1,5 +1,8 @@
 // Write your solution in this file!
+<<<<<<< HEAD
 const employee = {};
+=======
+>>>>>>> f965a799ec40f735950dd8be598448eddf714537
 function updateEmployeeWithKeyAndValue(employee, key, value) {
   const newObj = { ...employee };
   newObj[key] = value;
